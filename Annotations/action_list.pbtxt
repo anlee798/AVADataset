@@ -1,0 +1,29 @@
+item {
+  name: "talk"
+  id: 1
+}
+item {
+  name: "bow"
+  id: 2
+}
+item {
+  name: "stand"
+  id: 3
+}
+item {
+  name: "sit"
+  id: 4
+}
+item {
+  name: "walk"
+  id: 5
+}
+item {
+  name: "hand up"
+  id: 6
+}
+item {
+  name: "catch"
+  id: 7
+}
+
